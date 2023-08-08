@@ -1,0 +1,27 @@
+[
+  { "title": "Suat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/legs1.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  { "title": "Video2",
+    "time": "45 seconds",
+    "thumbnail": "assets/legs1.png",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  { "title": "Suat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/legs1.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  { "title": "Suat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/legs1.png",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  { "title": "Big Buck Bunny",
+    "time": "45 seconds",
+    "thumbnail": "assets/legs1.png",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  }
+]
